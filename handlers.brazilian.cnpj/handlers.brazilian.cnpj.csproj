@@ -4,6 +4,16 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>handlers.brazilian.cnpj</AssemblyName>
     <RootNamespace>handlers.brazilian</RootNamespace>
+    <Authors>Rafael Prudente</Authors>
+    <Company />
+    <PackageProjectUrl>https://github.com/rafaelprudente/handlers.brazilian.cnpj</PackageProjectUrl>
+    <PackageTags>brazil cnpj csharp digit-check dot-net nuget validation</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Copyright>Copyright © 2019</Copyright>
+    <Description>Digit check and formatting on Brazilian Company Taxpayer Registry (CNPJ)</Description>
+    <PackageLicenseUrl>https://github.com/rafaelprudente/handlers.brazilian.cnpj/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryType>GitHub</RepositoryType>
   </PropertyGroup>
 
 </Project>
